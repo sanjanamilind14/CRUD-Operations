@@ -23,7 +23,7 @@ const App = () => {
     {
       path: "/viewpage",
       element: <Viewpage />,
-    },
+    },  
   ]);
 
   return (
